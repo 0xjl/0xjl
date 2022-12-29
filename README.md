@@ -21,8 +21,12 @@ Here is my tech stack:
 
 
 
- https://img.shields.io/badge/-CSS-blue https://img.shields.io/badge/-JAVASCRIPT-yellow https://img.shields.io/badge/-REACT-violet https://img.shields.io/badge/-NODE-violet -->
+     -->
 <img src="https://img.shields.io/badge/-HTML-red"></img>
+<img src="https://img.shields.io/badge/-CSS-blue"></img>
+<img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"></img>
+<img src="https://img.shields.io/badge/-REACT-violet"></img>
+<img src="https://img.shields.io/badge/-NODE-violet"></img>
 <a href="https://app.daily.dev/devjdl"><img src="https://api.daily.dev/devcards/bf2eb1258f0f4d08b8052f5dd65c2fe4.png?r=a2n" width="400" alt="Johan Lourens's Dev Card"/></a>
 
 ![QUOTES](https://quotier.vercel.app/quote)
