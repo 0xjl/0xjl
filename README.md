@@ -1,4 +1,4 @@
-<h2>Hello! My name is Johan. I am a Front End Web Developer</h2> 
+<h2>Programmer Mindset</h2> 
 
 
 <h4>This is my tech-stack:</h4>
